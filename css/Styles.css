@@ -1,0 +1,114 @@
+    *{
+        margin: 0;
+        padding: 0;
+    }
+    body{
+        font-family: 'Oswald', sans-serif;
+        font-family: 'Raleway', sans-serif;
+        color: cyan;
+        background-color: rgb(1, 1, 7)
+    }
+    header, nav, main, section, article, aside, footer {
+        padding: 2%;
+        margin:0.5%;
+    }
+.contenedor-Habilidades{
+    width: 500px;
+}
+.RedesSociales{
+    text-align: center;
+}
+.Datos{
+    text-align: center;
+}
+.InfoAcademica{
+    color: cyan
+}
+
+.linkedin{
+    padding-left: 0%;
+    margin: 5%;
+}
+.facebook{
+    padding-left: 0%;
+    margin: 5%;
+}
+.Instagram{
+    padding-left: 0%;
+    margin: 5%;
+}
+.Experiencia{
+    color: cyan;
+}
+.Universidad{
+    color: cyan
+}
+.Facultad{
+    color: cyan;
+}
+.curso{
+    color: cyan;
+}
+.Experiencia-Laboral{
+    font-family: 'Oswald';
+font-style: normal;
+font-weight: 500;
+font-size: 56.7787px;
+line-height: 84px;
+text-transform: uppercase;
+
+/* Grey/500 Text light */
+
+color: #889397;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+}
+.Universidad{
+    color: white;
+}
+.Descripcion{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 56.7787px;
+    line-height: 84px;
+    text-transform: uppercase;
+    
+    /* Grey/500 Text light */
+    
+    color: #889397;
+    
+    
+    /* Inside auto layout */
+    
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.ArgProg{
+    color: white;
+}
+.Egg{
+    color: white;
+}
+img, svg {
+    vertical-align: middle;
+    width: 520px;
+}
+
+.form-check{
+    left: auto;
+}
+.nombre{
+    width: -webkit-fill-available;
+}
+.col{
+    width: 520px;
+    height: 10%;
+}
